@@ -1,5 +1,5 @@
 ========================================================
-Get Live Wallet Support For Trust At #1 858-(2l8)-OOll
+Get Live Wallet Support For Trust At +1 858-(2l8)-OOll
 ========================================================
 
 **Trust Wallet** is a decentralized mobile crypto wallet that allows users to store, manage, and swap a wide range of cryptocurrencies like Bitcoin, Ethereum, BNB, and thousands more. It also supports NFTs, DeFi access, and Web3 DApps — all from a single user-friendly app.
