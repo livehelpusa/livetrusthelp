@@ -1,8 +1,10 @@
 ========================================================
-PeacockTV.com/tv – Activate Peacock TV on Your Device
+Get Live Wallet Support For Trust At #1 858-(2l8)-OOll
 ========================================================
 
-Want to start streaming Peacock’s hit shows, live sports, and movies on the big screen? First you need to link your TV (or another streaming device) to your Peacock account. The quickest way is with the `https://PeacockTV.com/tv <https://peacockstreamhelpguide.readthedocs.io/en/latest/>`_ activation page.
+**Trust Wallet** is a decentralized mobile crypto wallet that allows users to store, manage, and swap a wide range of cryptocurrencies like Bitcoin, Ethereum, BNB, and thousands more. It also supports NFTs, DeFi access, and Web3 DApps — all from a single user-friendly app.
+
+As powerful as it is, users may sometimes encounter issues and need support. This guide explains how to get help from **Trust Wallet Support**, troubleshoot common problems, and stay protected from scams.
 
   .. raw:: html
 
@@ -13,85 +15,114 @@ Want to start streaming Peacock’s hit shows, live sports, and movies on the bi
     </div>
 
 
-What You’ll Need
-================
+How to Get Help from Trust Wallet Support
+=================================================
 
-* A supported device with the Peacock app installed (see the list below)
-* Your Peacock account e-mail & password – or be ready to sign up
-* A second device (phone, tablet, or computer) with a web browser
+Trust Wallet operates as a non-custodial wallet, which means there’s no direct access to your funds or private information by any support agent. However, several official channels are available for help:
 
-Supported Devices (Snapshot)
------------------------------
+1. **Official Help Center**
 
-Peacock runs on most modern smart-TV and streaming platforms, including:
+   Visit the Trust Wallet Help Center for tutorials, FAQs, and detailed guides:
+   https://community.trustwallet.com/
 
-* **Smart-TVs:** Android TV, Apple TV, LG, Samsung, Vizio, Hisense VIDAA, Roku
-* **Streaming sticks / boxes:** Fire TV, Roku, Cox Contour, Xfinity
-* **Game consoles:** PlayStation 4 & 5, Xbox One / Series
-* **Mobile:** iPhone/iPad, Android phones & tablets
-* **Desktop:** Windows, macOS, Chrome OS :contentReference[oaicite:0]{index=0}
+2. **Community Forum**
 
-Step-by-Step Activation Guide
-=============================
+   Get answers from experienced users and moderators via:
+   https://community.trustwallet.com
 
-1. **Install & open Peacock** on your TV/device.  
-   • Select **Sign In** (existing users) or **Pick a Plan** (new users).  
-   • An **activation code** appears on the screen.
+3. **Contacting Support**
 
-2. On your phone or computer, visit `https://PeacockTV.com/tv <https://peacockstreamhelpguide.readthedocs.io/en/latest/>`_
+   Trust Wallet does **not offer live chat or call-based support**, but users can submit requests through the app or Help Center. Be cautious of impersonators. Only trust the official domain and email.
 
-3. **Enter the activation code** exactly as it appears and press **Continue**.
+   .. note::
+      The official email is ``support@trustwallet.com`` — use only if redirected from the app and Support Number is `+1 858-(2l8)-OO11` .
 
-4. **Log in** with your Peacock credentials (or create an account).  
-   The screen on your TV should refresh automatically, unlocking full access. :contentReference[oaicite:1]{index=1}
+Trust Wallet Will NEVER...
+--------------------------
 
-Can’t Find the Code?  
-If the code does not show, choose **Sign In with Email** on your TV and enter
-your e-mail and password directly.
+Beware of fake support agents. Trust Wallet **will never**:
 
-Managing Your Peacock Account
-=============================
+- Ask for your 12-word recovery phrase.
+- Message you first on Telegram, WhatsApp, or social media.
+- Request access to your wallet or phone.
+- Ask you to send crypto for help or verification.
 
-After activation you can:
+.. warning::
+   If anyone asks for your seed phrase or remote access, it’s a scam.
 
-* Upgrade or downgrade between **Peacock Free, Premium, and Premium Plus**  
-* Set up individual **profiles** for family members  
-* **Resume playback** across devices  
-* View or change your **billing information** :contentReference[oaicite:2]{index=2}
+Common Issues and Solutions
+---------------------------
 
-Troubleshooting Tips
-====================
++-----------------------------+------------------------------------------------------------+
+| Issue                      | Solution                                                   |
++=============================+============================================================+
+| Token Not Showing          | Add token manually using its contract address.             |
++-----------------------------+------------------------------------------------------------+
+| Lost Wallet Access         | Use the original 12-word recovery phrase to restore.       |
++-----------------------------+------------------------------------------------------------+
+| DApp Browser Missing (iOS) | Use WalletConnect or enable browser via Settings.          |
++-----------------------------+------------------------------------------------------------+
+| Transaction Stuck          | Increase gas fee or check blockchain status.               |
++-----------------------------+------------------------------------------------------------+
+| NFT Not Visible            | Confirm correct network (Ethereum, BNB Chain, etc.).       |
++-----------------------------+------------------------------------------------------------+
 
-* Re-check the activation code – it expires after a few minutes; select
-  **Get a new code** if needed.  
-* Make sure the device is connected to the Internet and the date/time are correct.  
-* Restart the Peacock app or power-cycle the TV/streamer.  
-* Try a different browser when visiting *PeacockTV.com/tv*.  
-* Still stuck? Use the **Help > Contact Us** option in the Peacock app
-  or visit the online Help Center.
+Official Support Channels
+--------------------------
 
-Frequently Asked Questions
-==========================
++----------------------+----------+------------------------------------------------+
+| Channel              | Available| Notes                                          |
++======================+==========+================================================+
+| Help Center          | ✅ Yes   | https://community.trustwallet.com             |
++----------------------+----------+------------------------------------------------+
+| Email Support        | ⚠️ Limited| Only from official app redirects.             |
++----------------------+----------+------------------------------------------------+
+| Live Chat            | ❌ No    | Not supported.                                |
++----------------------+----------+------------------------------------------------+
+| Telegram/WhatsApp    | ❌ No    | Avoid these — full of impersonators.          |
++----------------------+----------+------------------------------------------------+
+| Social Media         | ⚠️ Limited| Info only. Never share sensitive data there.  |
++----------------------+----------+------------------------------------------------+
 
-**Q 1 – Is PeacockTV.com/tv the official activation site?**  
-Yes. That URL is owned by Peacock/NBCUniversal and redirects securely to
-the activation page.
+How to Stay Safe When Seeking Support
+-------------------------------------
 
-**Q 2 – Do I need a paid plan to activate?**  
-No. You can link a device on the free tier, then decide later if you want
-to upgrade for ad-free viewing and live local NBC.
+- Always back up your 12-word seed phrase offline.
+- Never share your recovery phrase with anyone.
+- Do not click random links claiming to be support.
+- Use only the official domain: https://trustwallet.com
+- Double-check any email or message you receive.
 
-**Q 3 – How many devices can I activate?**  
-Up to three simultaneous streams are allowed per Peacock account. Simply
-repeat the steps above for each additional device.
+Frequently Asked Questions (FAQs)
+---------------------------------
 
-**Q 4 – Why does my code keep failing?**  
-Codes are single-use and time-limited. Generate a fresh code and complete
-the process within five minutes for best results.
+**Q: I lost my phone. Can Trust Wallet help me recover my wallet?**  
+A: No. Trust Wallet cannot access your funds or recovery phrase. You must restore it using the 12-word backup phrase.
+
+**Q: My token isn't showing up in Trust Wallet.**  
+A: You may need to manually add the token using its smart contract address.
+
+**Q: Why do my transactions keep failing?**  
+A: This could be due to low gas fees or network congestion. Check the transaction on Etherscan or BSCScan.
+
+**Q: Is there a real Trust Wallet Telegram support group?**  
+A: No. All support happens through the Help Center. Telegram groups offering support are most likely scams.
 
 Conclusion
-==========
+----------
 
-Activation takes under a minute and puts the full Peacock library at your
-fingertips. Head to `https://PeacockTV.com/tv <https://peacockstreamhelpguide.readthedocs.io/en/latest/>`_, enter the on-screen code, sign in,
-and start watching!
+Trust Wallet offers a decentralized and secure crypto experience, but users need to rely on the community and official resources for help. Thankfully, the **Trust Wallet Help Center** and **Community Forum** are full of guides and active members ready to assist.
+
+.. note::
+   For verified help and tutorials, always start at https://community.trustwallet.com
+
+Also See
+--------
+
+- Trust Wallet support
+- Contact Trust Wallet
+- Trust Wallet customer service
+- Trust Wallet Help Center
+- Trust Wallet token not showing
+- Trust Wallet recovery help
+
