@@ -9,8 +9,8 @@ As powerful as it is, users may sometimes encounter issues and need support. Thi
   .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://pre.im/?GZGqGXnYcaJ9GgVx3Bpo9XZaBGpSBYRinYhPmGa1TnD0lOeSBETPOWgRcGtJUadVhPdI52lYvM" style="background-color:#ff0000; color:#ffffff; padding:18px 40px; font-size:20px; font-weight:bold; text-decoration:none; border-radius:8px; box-shadow:0 6px 10px rgba(0,0,0,0.15); display:inline-block;">
-            ➡ Activate Peacock TV on Your Device
+        <a href="#" style="background-color:#ff0000; color:#ffffff; padding:18px 40px; font-size:20px; font-weight:bold; text-decoration:none; border-radius:8px; box-shadow:0 6px 10px rgba(0,0,0,0.15); display:inline-block;">
+            ➡ Connect For Free
         </a>
     </div>
 
