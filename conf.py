@@ -10,24 +10,14 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'PeacockTV.com/tv'
-copyright = '2025, PeacockTV.com/tv'
-author = 'PeacockTV.com/tv'
+project = 'Trust Support'
+copyright = '2025'
+author = 'Trust Wallet'
 
 # The full version, including alpha/beta/rc tags
 release = '1.0.0'
 
 # -- HTML output settings ----------------------------------------------------
-
-# SEO Title for browser tab and HTML pages
-html_title = "PeacockTV.com/tv – Activate Peacock TV on Your Device"
-
-
-# Optional short title for nav bar
-html_short_title = "Activate Peacock TV on Your Device"
-
-# Favicon (place favicon.ico in the root or _static folder)
-html_favicon = 'favicon.ico'
 
 # Uncomment to set a theme
 # html_theme = 'sphinx_rtd_theme'
